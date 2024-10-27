@@ -1,0 +1,2 @@
+# workers_for_proxy
+cloudflare反代任意网站，增加密码保护，保护你的worker被他人使用
